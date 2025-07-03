@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
+# "반가워요"
+
 # 파일 경로
 file_path = r"C:\Users\User\Desktop\Clio-NatCommData-main\simulated_optimization\bo\bo_ttei_uniform_1.pkl"
 if not os.path.exists(file_path):
